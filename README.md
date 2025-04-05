@@ -49,7 +49,6 @@ This repository contains all the tasks, code, and documentation completed during
 - **/notebooks/**: Jupyter Notebooks for each task
 - **/data/**: Raw and Processed Data Files
 - **/Summary/**: Final Summary of findings
-- **/images/**: Visualizations and Graphs
 - **README.md**: Detailed Explanation of the Project
 
 ---
