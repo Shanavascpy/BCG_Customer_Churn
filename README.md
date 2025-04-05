@@ -1,9 +1,145 @@
-# BCG_Customer_Churn
-BCG Data Science Job Simulation 
-•	Completed a customer churn analysis,demonstrating advanced data analytics skills, identifying essential client data and outlining a strategic investigation approach.
+### Objective:
+Define the business problem and hypothesize the factors influencing customer churn.
+Hypothesis: Churn is primarily driven by customer price sensitivity, and a discount may reduce churn rates.
 
-•	Conducted efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
 
-•	Completed the engineering and optimization of a random forest model, achieving an 90% accuracy rate in predicting customer churn.
 
-•	Completed a concise executive summary for the Associate Director, delivering actionable insights for informed decision-making based on the analysis.
+
+### Repository Description:
+This repository contains all the tasks, code, and documentation completed during the BCG Data Science job simulation on The Forage platform. The simulation focused on analyzing customer churn, building predictive models, and presenting insights for a major utility company.
+
+---
+
+
+
+
+
+### Table of Contents:
+1. **Introduction**
+   - Overview of the BCG Data Science Simulation
+   - Objectives and Key Learning Outcomes
+
+2. **Task 1: Data Exploration**
+   - Exploratory Data Analysis (EDA)
+   - Key Findings and Data Visualizations
+
+3. **Task 2: Data Cleaning and Preprocessing**
+   - Steps for Cleaning and Preparing the Data
+   - Handling Missing Values and Outliers
+
+4. **Task 3: Model Building**
+   - Choice of Model: RandomForestClassifier
+   - Evaluation Metrics: accuracy_score, classification_report, and confusion_matrix
+
+5. **Task 4: Model Evaluation**
+   - Results and Performance Metrics
+   - Precision: 83%, F1 Score: 95%, Accuracy: 90%
+
+6. **Task 5: Business Recommendations**
+   - Insights on Customer Churn
+   - Strategic Recommendations for PowerCo
+
+7. **Task 6: Final Report**
+   - PowerPoint Presentation 
+   - Summary of Findings and Recommendations
+
+---
+
+### Files and Folders:
+- **/notebooks/**: Jupyter Notebooks for each task
+- **/data/**: Raw and Processed Data Files
+- **/Summary/**: Final Summary of findings
+- **/images/**: Visualizations and Graphs
+- **README.md**: Detailed Explanation of the Project
+
+---
+
+### Getting Started:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/muhammadadilnaeem/BCG-Data-Science-Job-Simulation-on-Forage-August-2024.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd BCG_Customer_Churn
+   ```
+3. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the Jupyter notebooks or Python scripts.
+
+---
+
+### License:
+This repository is under GNU GENERAL PUBLIC LICENSE Version 3.
+
+---
+### Repository Name: `BCG-Data-Science-Job-Simulation-on-Forage-August-2024`
+
+---
+
+### Repository Description:
+This repository contains all the tasks, code, and documentation completed during the BCG Data Science job simulation on The Forage platform. The simulation focused on analyzing customer churn, building predictive models, and presenting insights for a major utility company.
+
+---
+
+![BCG Data Science Job Simulation](https://github.com/user-attachments/assets/33f51d13-4e3c-409c-ab73-5518ff3319dd)
+
+
+
+### Table of Contents:
+1. **Introduction**
+   - Overview of the BCG Data Science Simulation
+   - Objectives and Key Learning Outcomes
+
+2. **Task 1: Data Exploration**
+   - Exploratory Data Analysis (EDA)
+   - Key Findings and Data Visualizations
+
+3. **Task 2: Data Cleaning and Preprocessing**
+   - Steps for Cleaning and Preparing the Data
+   - Handling Missing Values and Outliers
+
+4. **Task 3: Model Building**
+   - Choice of Model: RandomForestClassifier
+   - Hyperparameter Tuning with GridSearchCV
+   - Evaluation Metrics: accuracy_score, classification_report, and confusion_matrix
+
+5. **Task 4: Model Evaluation**
+   - Results and Performance Metrics
+   - Precision: 90%, F1 Score: 95%, Accuracy: 95%
+
+6. **Task 5: Business Recommendations**
+   - Insights on Customer Churn
+   - Strategic Recommendations for PowerCo
+
+7. **Task 6: Final Report**
+   - PowerPoint Presentation 
+   - Summary of Findings and Recommendations
+
+---
+
+### Files and Folders:
+- **/notebooks/**: Jupyter Notebooks for each task
+- **/data/**: Raw and Processed Data Files
+- **/reports/**: Final Report and PowerPoint Presentation
+- **README.md**: Detailed Explanation of the Project
+
+---
+
+### Getting Started:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/muhammadadilnaeem/BCG-Data-Science-Job-Simulation-on-Forage-August-2024.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd BCG-Data-Science-Job-Simulation-on-Forage-August-2024
+   ```
+3. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the Jupyter notebooks or Python scripts.
+
